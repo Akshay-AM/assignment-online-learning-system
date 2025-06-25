@@ -7,8 +7,8 @@ A full-stack web application that allows users to register, browse courses, enro
 ## 🚀 Features
 
 ### 🔐 User Management
-- Register & Login (with social login support - Google/Facebook)
-- Role-based access (Admin, Instructor, Learner)
+- Register & Login Student
+- Role-based access ( Learner)
 
 ### 📚 Course Management
 - Create/update/delete courses
@@ -28,8 +28,7 @@ A full-stack web application that allows users to register, browse courses, enro
 |------------|-----------------------------|
 | Frontend   | React.js, HTML, CSS, Bootstrap |
 | Backend    | Spring Boot, Spring Security |
-| Database   | MySQL                       |
-| Auth       | JWT, OAuth (Google/Facebook) |
+| Database   | MySQL                       | 
 | ORM        | JPA (Hibernate)             |
 | API Testing| Postman                     |
 
