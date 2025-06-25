@@ -12,7 +12,7 @@ A full-stack web application that allows users to register, browse courses, enro
 
 ### 🔐 User Management
 - Register & Login 
-- Role-based access (Admin, Instructor, Learner)
+
 
 ### 📚 Course Management
 - Create/update/delete courses
